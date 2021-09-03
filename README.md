@@ -1,2 +1,2 @@
 # jQueryExercise
-Great repository names are short and memorable. Need inspiration? How about psychic-funicular? 
+ https://arpasaha-as.github.io/jQueryExercise/
