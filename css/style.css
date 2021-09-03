@@ -1,0 +1,254 @@
+/*answerr2*/
+div {
+    background: white;
+}
+
+.red {
+    background: red;
+}
+
+.red.green {
+    background: green;
+}
+
+/*answerr3*/
+.three {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    float: left;
+}
+
+/*answerr4*/
+.four {
+    height: 50px;
+    margin: 5px;
+    padding: 5px;
+    float: left;
+}
+
+#box1 {
+    width: 50px;
+    color: yellow;
+    background-color: blue;
+}
+
+#box2 {
+    width: 80px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 99, 30);
+}
+
+#box3 {
+    width: 40px;
+    color: #fcc;
+    background-color: #123456;
+}
+
+#box4 {
+    width: 70px;
+    background-color: #f11;
+}
+
+/*answerr5*/
+.five {
+    color: blue;
+    width: 200px;
+    font-size: 14px;
+}
+
+/*answerr6*/
+#box {
+    background: black;
+    color: snow;
+    width: 100px;
+    padding: 10px;
+}
+
+/*answerr7*/
+p1 {
+    color: blue;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/*answerr8*/
+p2 {
+    color: green;
+}
+
+/*answerr9*/
+#nine {
+    width: 20px;
+    height: 15px;
+    background-color: #f33;
+}
+
+/*answerr10*/
+#ten {
+    margin: 1040px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    background: green;
+    display: none;
+}
+
+div.newcolor {
+    background: blue;
+}
+
+/*answerr11*/
+#eleven {
+    color: blue;
+}
+
+#ele {
+    color: red;
+}
+
+/*answerr12*/
+#tew {
+    margin: 5px;
+    background: yellow;
+}
+
+button {
+    margin: 5px;
+    font-size: 14px;
+}
+
+#pera {
+    margin: 5px;
+    color: blue;
+}
+
+span {
+    color: red;
+}
+
+/*answerr13*/
+#thir {
+    margin-top: 1388px;
+    width: 50px;
+    position: absolute;
+    height: 50px;
+    left: 10px;
+    top: 30px;
+    background-color: yellow;
+}
+
+div.thir {
+    background-color: red;
+}
+
+/*answerr14*/
+/*answerr15*/
+.fifth {
+    margin-top: 1600px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    background: green;
+    display: none;
+}
+
+div.newcolor {
+    background: blue;
+}
+
+#sp {
+    color: red;
+}
+
+/*answerr16*/
+.myClass,
+.myClass {
+    width: 120px;
+    height: 40px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    background-color: #EEEEEE;
+}
+
+/*answerr18*/
+body {
+    background: yellow;
+}
+
+button {
+    font-size: 12px;
+    margin: 2px;
+}
+
+#para {
+    width: 150px;
+    border: 1px red solid;
+}
+
+div {
+    color: red;
+    font-weight: bold;
+}
+
+/*answerr19*/
+.ninth {
+    width: 50px;
+    height: 70px;
+    float: left;
+    margin: 5px;
+    background: rgb(255, 140, 0);
+    cursor: pointer;
+}
+
+/*answerr22*/
+/*answerr24*/
+#block {
+    background-color: #bca;
+    width: 100px;
+    border: 1px solid green;
+}
+
+/*answerr25*/
+.block {
+    position: absolute;
+    background-color: #abc;
+    left: 50px;
+    width: 90px;
+    height: 57px;
+    margin: -1px;
+}
+
+/*answerr26*/
+#block1,
+#block2 {
+    background-color: #bca;
+    width: 200px;
+    height: 3.1em;
+    text-align: center;
+    border: 2px solid green;
+    margin: 3px;
+    font-size: 14px;
+}
+
+#go1,
+#go2,
+#go3,
+#go4 {
+    font-size: 14px;
+}
+
+/*answerr27*/
+.block5 {
+    position: relative;
+    background-color: #abc;
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin: 5px;
+}
